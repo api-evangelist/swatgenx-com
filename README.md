@@ -1,4 +1,4 @@
-# swatgenx-com
+# SWATGenX
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-swatgenx-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://swatgenx.com/
+SWATGenX builds high-resolution SWAT+ watershed models from national data across the conterminous United States; a groundwater study (offered in Michigan Lower Peninsula, Indiana, Minnesota, Ohio, Wisconsin) also builds a steady-state MODFLOW 6 groundwater model; daily two-way SWAT+/MODFLOW 6 coupling is in the engine, not yet in an automatic build. It was founded and is developed by Vahid Rafiei, and is operated by SWATGENX LLC, a Michigan limited liability company. It is not affiliated with any university or government agency.
+
+**Areas:** Company · Watershed · Modeling · SWAT+ · Groundwater
+
+## SWATGenX on APIs.io
+
+Everything profiled for SWATGenX is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/swatgenx-com/](https://apis.io/providers/swatgenx-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [SWATGenX API](https://apis.io/apis/swatgenx-com/swatgenx-api/) — API documentation for SWATGenX model bundle structure, input files, PFAS transport, engine I/O, MODFLOW coupling, calibration artifacts, and Python package.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SWATGenX Domain Security](https://apis.io/security/swatgenx-com/swatgenx-com-domain-security/)
+- [SWATGenX Vulnerability Disclosure](https://apis.io/security/swatgenx-com/swatgenx-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://swatgenx.com/)
+- [Documentation](https://www.swatgenx.com/docs)
+- [Terms of service](https://www.swatgenx.com/terms)
+- [Privacy policy](https://www.swatgenx.com/privacy)
+- [GitHub](https://github.com/rafiei-vahid)
+
+## API Evangelist rating
+
+**Kin Score 19.1** — emerging · rubric 0.28.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 27.7 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/swatgenx-com/](https://apis.io/providers/swatgenx-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SWATGenX: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/swatgenx-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
